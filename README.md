@@ -8,7 +8,7 @@ to use this make sure you have numpy installed on your system
 [Usage]
 
 - python encrypt_files.py "complete_path_of_the_file"
-- the you have to paste the proper path of key file 
+- then you have to paste the proper path of key file 
 
 
 - to decrypt the file follow the same procedure as above with the same key file 
